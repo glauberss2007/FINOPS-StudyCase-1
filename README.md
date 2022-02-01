@@ -39,6 +39,7 @@
 
 ## MindMap
 
+The interative mindmap can be founded at https://github.com/glauberss2007/finops/blob/main/FinOpsCourseMindMap1.1.zip
 
 ## Organization
 
