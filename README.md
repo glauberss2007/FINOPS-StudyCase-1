@@ -231,6 +231,39 @@ These 2 use case shows ans example of some resource optimize
 
 ## Specific Cloud FinOps Views
 ### AWS
+#### FinOps on AWS
+Overview
+![image](https://user-images.githubusercontent.com/22028539/152366956-ac9ac5a7-e2be-47bb-94a5-6ab57e5848c8.png)
+
+Accounts
+![image](https://user-images.githubusercontent.com/22028539/152367203-fe30f613-f3d8-4d5d-84b0-feebf7d2e083.png)
+
+RIs
+![image](https://user-images.githubusercontent.com/22028539/152367330-eda6b176-e1b9-435b-81bd-31609117ba2c.png)
+
+Saving Plans
+![image](https://user-images.githubusercontent.com/22028539/152367423-4d41f10a-6273-40d0-aa22-f1bf6aa06575.png)
+
+#### Tags and Costs
+TAG overview: https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/Using_Tags.html
+TAG cost allocation: https://docs.aws.amazon.com/pt_br/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html
+Details: https://docs.aws.amazon.com/ARG/latest/userguide/tagging-resources.html
+
+Example: AWS GUI -> Cost Explorer -> Filter by TAG
+
+![image](https://user-images.githubusercontent.com/22028539/152371045-ec3b017d-9c57-48d8-b7ba-2f7c21ca9026.png)
+
+#### Reservations and Saving Plans
+
+AWS GUI -> EC2 -> Reserve Instance 
+
+AWS GUI > Cost Management > Saving Plans
+
+Ps: Purchase recomendations
+
+#### AWS FinOps Tips and Tricks
+
+
 ### GCP
 ### Azure
 ### OCI
