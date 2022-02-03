@@ -204,10 +204,27 @@ Folder and organizations
 ![image](https://user-images.githubusercontent.com/22028539/152355947-4094c7ee-6569-40ae-b5aa-c45c3298c70f.png)
 
 ### FinOps Use Case 4
-Check the file: https://github.com/glauberss2007/finops/blob/main/ContoseoFinOpsUseCase4.zip
-
+Check the file that has an use case example with objects, structure, tags and others definitions that can be changed/customized according to organization: https://github.com/glauberss2007/finops/blob/main/ContoseoFinOpsUseCase4.zip
 
 ## Step III: Operate
+
+### Allign teams
+![image](https://user-images.githubusercontent.com/22028539/152358021-a1e8d10b-499d-4388-b20b-3d296cda0b46.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152358048-524cb3e0-e910-4a42-aace-8e02ef8af070.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152358210-2b89af19-6e00-4678-9020-8a63792643c9.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152358287-213e0dad-d03f-48aa-979a-da9d6c3ec08a.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152358335-7ebf3fbe-b6db-43b9-bb1b-943b9a9508e0.png)
+
+### Bad Citizens
+![image](https://user-images.githubusercontent.com/22028539/152358540-dbac6219-d23f-46a8-a272-c68ad2c8662b.png)
+
+### FinOps Use Case 5 ans 6
+
+
 
 ## Hands-On
 ### AWS
