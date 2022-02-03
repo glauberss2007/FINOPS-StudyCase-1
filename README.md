@@ -133,6 +133,84 @@ Folder and organizations
 
 ## Step II: Optimize
 
+### Goas and Targets
+![image](https://user-images.githubusercontent.com/22028539/152351359-aae80f2f-338f-4531-8c81-3787f50df587.png)
+
+### Good cost allocation
+![image](https://user-images.githubusercontent.com/22028539/152351424-5320fe43-4440-4890-896a-0bf803c6e986.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152351531-181a8ce8-83ef-42da-b6f7-50fb56ba32f2.png)
+
+### Objectives and Key Results
+![image](https://user-images.githubusercontent.com/22028539/152351595-236d753e-01fe-4ff9-b9d4-4b4ef3b367de.png)
+
+### Goal
+
+![image](https://user-images.githubusercontent.com/22028539/152351665-703a7048-24fa-4195-b0f4-087f4cfa1a33.png)
+
+### Cost Trend
+![image](https://user-images.githubusercontent.com/22028539/152351873-1a89fa41-53b8-4fb2-b10e-3daac0d4b352.png)
+
+
+### Anomalie
+![image](https://user-images.githubusercontent.com/22028539/152352009-ea994129-5739-4a32-be02-31783b963b42.png)
+
+### Some ways
+![image](https://user-images.githubusercontent.com/22028539/152352046-eff835d9-7484-4c0c-ae84-3cfeef17de90.png)
+
+### Usage Optimization
+![image](https://user-images.githubusercontent.com/22028539/152352201-b4f3efcc-3d98-4854-a229-a2828312bdf7.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152352259-8a3deeda-e07c-4c6c-b8d7-55c3c88016b7.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152352315-9eaad9ba-cf42-4faa-9af2-f87d6716b0dc.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152353412-1f6c9d1b-5a43-468e-8a7f-d675b7fd644c.png)
+
+### Best Practice
+
+![image](https://user-images.githubusercontent.com/22028539/152353505-72b9c0c4-a9f3-4956-ae82-d56e68a10c50.png)
+
+### Rate Optimization (Reservations)
+
+![image](https://user-images.githubusercontent.com/22028539/152353746-4fb5f502-85ac-4b76-bea3-1e4de8619454.png)
+
+### Pricing
+
+![image](https://user-images.githubusercontent.com/22028539/152353935-7d4ab436-3c2c-456b-8899-9d0f38654229.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152354161-e8b1e476-4b31-41cb-992b-3843a0b896e2.png)
+
+### Reserved resources
+![image](https://user-images.githubusercontent.com/22028539/152354743-0848374a-1aa5-4250-9827-90d093415c60.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152354901-aa4d70cd-9396-4a87-8d69-685a9dcbd370.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152354935-624bf3e0-6e63-470f-80e6-1bbf5175d82a.png)
+
+### Commom mistakes
+![image](https://user-images.githubusercontent.com/22028539/152355252-c9dc36cc-28e0-40d3-8b5c-252e6cd20e52.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152355413-51e72d57-317e-4e90-87e5-ec45b9515700.png)
+
+### Tips
+![image](https://user-images.githubusercontent.com/22028539/152355576-62a5c344-b024-4093-ace1-125d1cc15352.png)
+
+### Strategy
+![image](https://user-images.githubusercontent.com/22028539/152355718-f0ebc953-65ba-4344-90c5-7ef3942d4e44.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152355820-abda8bc4-5c46-4c11-9163-471ca9579e47.png)
+
+![image](https://user-images.githubusercontent.com/22028539/152355947-4094c7ee-6569-40ae-b5aa-c45c3298c70f.png)
+
+### FinOps Use Case 4
+
+
+
+
+
+
+
 
 
 ## Step III: Operate
