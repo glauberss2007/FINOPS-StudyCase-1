@@ -305,9 +305,32 @@ PS: It is also possible to use a current licence of your windows server during a
 There also some discounts for Dev/Test projects and environment. More details can be founded at http://azure.microsoft.com/en-us/pricing/dev-test
 
 ### GCP
+Overview
+![image](https://user-images.githubusercontent.com/22028539/152397449-efaeb01d-d034-46a5-ab22-2d98ef5582c1.png)
+
+Commited usage discount, you can distribute reserved number of vCPUs and/or memory among instances
+
+![image](https://user-images.githubusercontent.com/22028539/152399970-61084703-0e9a-4b45-bee0-ac81d533baa6.png)
+
+Commits in a Project
+![image](https://user-images.githubusercontent.com/22028539/152400037-c57535e2-bcf1-41cf-a13a-4961a34f4c93.png)
+
+#### Tags or Labels
+Overview:
+https://cloud.google.com/compute/docs/labeling-resources
+
+Managing labels: 
+https://cloud.google.com/resource-manager/docs/creating-managing-labels
+
+
+#### Reservations
+
+Coompute Engine > Purchase a commited use discount
 
 ### OCI
 
 ## Conclusion
+
+Recomended Book for read: Cloud FinOps (J.R. Storment & Mike Fuller)
 
 
