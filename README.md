@@ -262,10 +262,44 @@ AWS GUI > Cost Management > Saving Plans
 Ps: Purchase recomendations
 
 #### AWS FinOps Tips and Tricks
+1. Check "Maintain target capacity" for spot resourcers in order to auto deploy a new one when the current terminat.
+2. Cluster auto scale details can be founded at: https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler/cloudprovider/aws
 
+### Azure
+Overview
+![image](https://user-images.githubusercontent.com/22028539/152388920-d2da9768-539a-4bb8-b2de-b91c7e6a7d17.png)
+
+Scope
+![image](https://user-images.githubusercontent.com/22028539/152389240-2e5296f8-66e1-447f-83f0-42f7b620692e.png)
+
+Hivrid benefit
+![image](https://user-images.githubusercontent.com/22028539/152389353-9e96b2f4-cfca-45ac-ac44-0841b307c06d.png)
+
+Tags to organize Azure resources
+Take a look: https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?tabs=json
+Home > resource > Export Template (to see the json)
+
+Ps: Not all resources can be taged. Details on https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/tag-support
+
+Cost management > Cost analyses
+
+Policy to enforce a specific TAG definiton, it will alert the current resourcers with no tag end enforce the tag during a new resource creation.
+
+Best practice regard TAGs: https://docs.microsoft.com/pt-br/azure/cloud-adoption-framework/decision-guides/resource-tagging/
+
+#### Reservations
+reservations > purchase now > Chose the resource. Use see details to check the reservation price.
+
+#### Advisor recomendations
+Home > Cost Management > Advisor Recommendations
+
+#### Automation Account
+This resource make possile to auto turn off VM when not in period of use.
+
+Create it on Home > Related Resources > Start/Stop VM and then apply to resource group according to: https://docs.microsoft.com/en-us/azure/azure-functions/start-stop-vms/deploy
 
 ### GCP
-### Azure
+
 ### OCI
 
 ## Conclusion
