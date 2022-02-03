@@ -298,6 +298,12 @@ This resource make possile to auto turn off VM when not in period of use.
 
 Create it on Home > Related Resources > Start/Stop VM and then apply to resource group according to: https://docs.microsoft.com/en-us/azure/azure-functions/start-stop-vms/deploy
 
+The start-stop can also be applyed to clusters as you can see on https://docs.microsoft.com/pt-br/azure/aks/start-stop-cluster?tabs=azure-cli
+
+PS: It is also possible to use a current licence of your windows server during a VM deploy so no new license will be necessary.
+
+There also some discounts for Dev/Test projects and environment. More details can be founded at http://azure.microsoft.com/en-us/pricing/dev-test
+
 ### GCP
 
 ### OCI
