@@ -204,13 +204,7 @@ Folder and organizations
 ![image](https://user-images.githubusercontent.com/22028539/152355947-4094c7ee-6569-40ae-b5aa-c45c3298c70f.png)
 
 ### FinOps Use Case 4
-
-
-
-
-
-
-
+Check the file: https://github.com/glauberss2007/finops/blob/main/ContoseoFinOpsUseCase4.zip
 
 
 ## Step III: Operate
