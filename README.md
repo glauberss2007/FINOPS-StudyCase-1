@@ -224,9 +224,12 @@ Check the file that has an use case example with objects, structure, tags and ot
 
 ### FinOps Use Case 5 ans 6
 
+These 2 use case shows ans example of some resource optimize 
+1. Tags on each resources
+2. Move instances to SaaS with auto Scale
+3. Reserver DB instances
 
-
-## Hands-On
+## Specific Cloud FinOps Views
 ### AWS
 ### GCP
 ### Azure
